@@ -24,5 +24,6 @@
 
  existing repository
  git add .
- git commit -m change some
+ git commit -m 'change some content'
+ git push
  
