@@ -1,0 +1,24 @@
+ VERSION CONTROL/SOURCE CONTROL
+ manage files and folders on our pc
+
+ github account
+ eamil-
+ password-
+ username-
+
+ repository - repo
+ (folder for a project)
+
+ terminal
+ git bash
+
+ git command
+ git status - over
+ init - initialize git
+ add - git add .(everything files and folder) index.html style.css
+ commit - git commit -m 'added nav'
+ branch - git branch -M main
+ git remote add -
+ push - go online
+ pull
+ 
